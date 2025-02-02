@@ -184,4 +184,16 @@ h3 {
 	}
 }
 
+img :nth-last-of-type(1)
+{height: 500px;
+width: 700px;}
+
+
+iframe {
+	height: 350px;
+	width: 700px;
+	
+
+}
+
 
